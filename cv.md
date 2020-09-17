@@ -6,5 +6,5 @@
 1.Skills:HTML, CSS, Wiki-markup(beginner level), basic knowledge of JavaScript, and initial Jquery level.
 1.My code GitHub-account: [Проект 1](https://skirill7.github.io/firstproject/) [Проект 2](https://skirill7.github.io/kirill.github.io/) [Проект 3](https://skirill7.github.io/calc.github.uo/) [Проект 4](https://skirill7.github.io/game-xo.github.io/) .
 1.My сourses and training: Intensive courses Skillbox по HTML и JS, freecodecamp - testing HTML, CSS, JS, CodeBasic - HTML, CSS, JS. 
-1.Course Freelancer for life, Vladislav Minin - basic JS, Intensive courses Skillbox, Learning HTML, XHTML, CSS-a book from 2014. .
+1.Course Freelancer for life, Vladislav Minin - basic JS, Intensive courses Skillbox, Learning HTML, XHTML, CSS-a book from 2014.
 1.English language skills - A2+.
