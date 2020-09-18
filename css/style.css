@@ -1,0 +1,21 @@
+body,main,footer {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	width: 1012px;
+	margin: 100px auto;
+	}
+
+.cv-container_list {
+	font-size: 24px;
+	line-height: 30px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 5px;
+	background-color: #008B99;
+	color: white;
+}
